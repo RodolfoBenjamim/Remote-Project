@@ -6,3 +6,4 @@ changed firswtly
 changed secondly
 
 local firstly
+local secondly
